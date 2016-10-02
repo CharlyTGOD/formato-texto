@@ -1,0 +1,27 @@
+.titulo{
+	color:#16B918;
+	font-size: 90px;
+	text-align: center;
+	font-family: Cooper Black;
+}
+.parrafo1{
+	border: 1px solid #ccc;
+	padding: 20px;
+	background: #74C6B7;
+	font-family: Arial Black;
+}
+body{
+	background: #DBD580;
+}
+.subtitulo{
+	color: #C65220;
+}
+.subtitulo1{
+	color:#C65220;
+}
+.texto1{
+	font-family: Arial Black;
+}
+.texto2{
+font-family: Arial black;
+}
